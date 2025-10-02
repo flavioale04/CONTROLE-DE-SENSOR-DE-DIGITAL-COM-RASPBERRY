@@ -1,1 +1,2 @@
-# CONTROLE-DE-SENSOR-DE-DIGITAL-COM-RASPBERRY
+Este projeto implementa um sistema de autenticação biométrica utilizando um leitor de digitais AS608 JM-101B conectado a uma placa Raspberry Pi 3B. O sistema foi desenvolvido em Python 3.11, utilizando bibliotecas como PyFingerprint para leitura de digitais, Socket para comunicação cliente-servidor e Threading para paralelismo, permitindo que o servidor gerencie múltiplos clientes simultaneamente.
+Projeto apresentado à Universidade Tiradentes, como parte das exigências para a obtenção da avaliação da disciplina Topicos Especiais em Computação, supervisionado pelo Prof. Felipe dos Anjos Lima.
